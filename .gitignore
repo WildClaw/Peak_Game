@@ -111,3 +111,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*.sdf
+*.suo
+*.sln
+
+#UE4 Files
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
