@@ -325,7 +325,3 @@ LogInit: Object subsystem initialized
 [2017.04.08-19.37.07:478][526]LogOutputDevice:Error: ntdll.dll
 [2017.04.08-19.37.07:478][526]LogOutputDevice:Error: 
 [2017.04.08-19.37.07:478][526]LogStats:                SubmitErrorReport -  0.000 s
-[2017.04.08-19.37.12:950][526]LogStats:                    SendNewReport -  5.472 s
-[2017.04.08-19.37.12:950][526]LogStats:             FDebug::EnsureFailed -  5.623 s
-[2017.04.08-19.37.22:551][526]SourceControl:Error: Error Operation 'CheckOut' not supported by source control provider 'Git'
-[2017.04.08-19.37.26:251][784]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.14/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.14/Engine/Content/' is outside repository
